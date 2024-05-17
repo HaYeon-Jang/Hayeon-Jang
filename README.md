@@ -1,5 +1,7 @@
+
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome+to+HaYeon's+GitHub!👋&fontAlignY=45&fontSize=40&height=150&animation=twinkling&desc=desc%20is%20also%20animated&descAlignY=70)
 
+<div align="center">
 <!--
 **HaYeon-Jang/Hayeon-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![HaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeon-Jang&show_icons=true&theme=radical)
-
+</div>
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
