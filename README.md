@@ -1,28 +1,10 @@
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome+to+HaYeon's+GitHub!👋&fontAlignY=45&fontSize=40&height=150&animation=twinkling&desc=desc%20is%20also%20animated&descAlignY=70)
 
-<div align="center">
-<!--
-**HaYeon-Jang/Hayeon-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![HaYeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaYeon-Jang&show_icons=true&theme=radical)
-</div>
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
-    <p><strong>Skills</strong></p>
+    <p><strong>Frontend</strong></p>
     <div>
         <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
@@ -78,7 +60,7 @@ Here are some ideas to get you started:
 </div>
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; align="center">
     <a href="mailto:jhy2962@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
