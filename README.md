@@ -1,5 +1,5 @@
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome+to+HaYeon's+GitHub!👋&fontAlignY=45&fontSize=40&height=150&animation=twinkling&desc=desc%20is%20also%20animated&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome+to+HaYeon's+GitHub!👋&fontAlignY=45&fontSize=40&height=150&animation=twinkling)
 
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
