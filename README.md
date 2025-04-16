@@ -1,7 +1,7 @@
 
 ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=Welcome+to+HaYeon's+GitHub!👋&fontAlignY=45&fontSize=40&height=150&animation=twinkling)
 
-## 🔨 Once I've used 🔨
+## 🔨 Tech Stacks 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
